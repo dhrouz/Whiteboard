@@ -1,0 +1,8 @@
+bin/
+obj/
+*.exe
+*.pdb
+dist/
+sign.local.bat
+*.pfx
+docs/PROJECT_BRIEF.md
